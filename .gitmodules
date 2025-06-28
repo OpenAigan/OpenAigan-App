@@ -1,3 +1,0 @@
-[submodule "engines/robotic-arm-engine"]
-	path = engines/robotic-arm-engine
-	url = https://github.com/OpenAigan/robotic-arm-engine
