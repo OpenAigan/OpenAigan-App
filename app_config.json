@@ -1,0 +1,17 @@
+{
+	"meta": {
+	    "project-name": "OpenAigan App",
+		"author": "Jahangir (Janik) Abdullayev",
+		"version": "beta 0.0.3"
+	},
+
+    "app": {
+        "supported-bots": ["Hexapod", "gabeNewell"],
+        "selected-bot": "Hexapod"
+    },
+
+    "hardware": {
+        "machine-type": "Raspberry Pi 4",
+        "servo-module": "PCA9685"
+    }
+}
